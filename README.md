@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Project management, IT support, web apps**
 
-- 📫 How to reach me **mohibemails@gmai.com**
+- 📫 How to reach me **mohibemails@gmail.com**
 
 - 📄 Know about my experiences [https://mohibresume.blogspot.com/](https://mohibresume.blogspot.com/)
 
