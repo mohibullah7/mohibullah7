@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohib</h1>
 <h3 align="center">A passionate software Developer from Pakistan</h3>
 
-<p align="left"> <a href="https://twitter.com/codeoflife22" target="blank"><img src="https://img.shields.io/twitter/follow/codeoflife22?logo=twitter&style=for-the-badge" alt="codeoflife22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codeoflife22" target="blank"><img src="https://img.shields.io/twitter/follow/mohibkhanmahsud?logo=twitter&style=for-the-badge" alt="Mohibullah" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Advance python, Java script and Frameworks**
+- 🌱 I’m currently learning **Advance python, Javascript and Frameworks**
 
 - 👯 I’m looking to collaborate on **software project management**
 
