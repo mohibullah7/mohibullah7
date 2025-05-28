@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohib</h1>
 <h3 align="center">A passionate software Developer from Pakistan</h3>
 
-<p align="left"> <a href="https://twitter.com/mohibkhanmahsud" target="blank"><img src="https://img.shields.io/twitter/follow/mohibkhanmahsud?logo=twitter&style=for-the-badge" alt="Mohibullah" /></a> </p>
+<p align="left"> <a href="https://x.com/mohibkhanmahsud" target="blank"><img src="https://img.shields.io/twitter/follow/mohibkhanmahsud?logo=twitter&style=for-the-badge" alt="Mohibullah" /></a> </p>
 
 - 🔭 I’m currently working on **My Skills**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codeoflife22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeoflife22" height="30" width="40" /></a>
+<a href="https://x.com/mohibkhanmahsud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohibkhanmahsud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohibullah45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohibullah45" height="30" width="40" /></a>
 <a href="https://fb.com/mohibullah45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohibullah45" height="30" width="40" /></a>
 <a href="https://instagram.com/mohibsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohibsoftware" height="30" width="40" /></a>
